@@ -1,3 +1,6 @@
+/**
+ * 常用工具类
+ */
 import {first,last, sampleSize,sample, chunk, trimEnd} from 'lodash'
 import dayjs from 'dayjs'
 import {useNumberFormat} from "@/utils/number";

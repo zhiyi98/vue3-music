@@ -1,3 +1,7 @@
+/**
+ * 数字转换工具类
+ */
+
 export function useNumberFormat(number: number): string | number {
 
 

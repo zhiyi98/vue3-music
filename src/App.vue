@@ -1,3 +1,7 @@
+<!--
+  App.vue
+-->
+
 <template>
   <RouterView v-if="isInit"/>
   <Host v-else/>

@@ -1,3 +1,6 @@
+/**
+ * vue配置文件入口
+ */
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
 import '@/assets/base.scss'

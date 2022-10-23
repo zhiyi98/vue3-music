@@ -1,3 +1,7 @@
+<!--
+  项目开启后的首页，输入后端网易云api后做跳转
+-->
+
 <template>
   <div class="container mx-auto flex flex-col items-center  h-screen">
     <div class="h-1/4"></div>

@@ -1,3 +1,6 @@
+/**
+ * 后端接口方法
+ */
 import type {Banner} from "@/models/banner";
 import type {DjProgram, Personalized, PersonalizedMv, PersonalizedNewSong} from "@/models/personalized";
 import type {PlayListDetail, PlaylistHighqualityTag} from "@/models/playlist";
