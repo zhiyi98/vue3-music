@@ -22,6 +22,15 @@ yarn
 yarn run dev
 ```
 
+## 项目打包
+
+```shell
+npm run build
+# 访问
+npm install -g serve
+serve -s dist
+```
+
 ## 网易云音乐API
 
 需要运行API服务才能正常体验
